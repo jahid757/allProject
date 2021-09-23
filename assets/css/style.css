@@ -90,4 +90,18 @@ header img {
     padding: 12px 13px;
     border-radius: 100px;
     background:#ddd;
+    cursor:pointer
+}
+
+/* service section */
+.service_content{
+  padding: 10px 20px;
+}
+
+.service_content .fixed_img_height{
+  height: 65px;
+}
+.service_content img{
+  width: 50px;
+  /* margin-bottom: 10px; */
 }
